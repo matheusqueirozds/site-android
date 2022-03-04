@@ -1,4 +1,4 @@
-# Site Responsivo sobre o Android
+<h1 align="center">Site Responsivo sobre o Android</h1>
 
 Criei uma página com um cabeçalho com tons de degradê, com um menu simples, vídeo e um conteúdo relacionado. Além disso, apresentei uma lista de marcadores personalizados e links externos identificados com um emoji. Por fim, fiz um rodapé com links.
 
