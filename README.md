@@ -2,7 +2,7 @@
   
 # Android
   
-🤖 Página com informações sobre o Android.
+> 🤖 Página com informações sobre o Android.
   
   <img src="https://user-images.githubusercontent.com/70871620/193432750-af1519f1-b2b3-455b-aa7b-382a42fda6f9.gif" height="100px">
 
