@@ -6,7 +6,6 @@
   
   <img src="https://user-images.githubusercontent.com/70871620/193432750-af1519f1-b2b3-455b-aa7b-382a42fda6f9.gif" height="100px">
 
-  
 <br>
   
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
@@ -107,7 +106,16 @@ Inicie o servidor pelo Go Live, disponível após a intalação da extensão Liv
 ![image](https://user-images.githubusercontent.com/70871620/193433021-eda88178-eec1-4580-a768-0408298cb70e.png)
 
 </details>  
+
+ --- 
+ 
+<details>
+<summary><h2>🤹🏾‍♂️ Stacks utilizadas</h2></summary>
   
+- HTML e CSS
+  
+</details>   
+
  --- 
  
 <details>
