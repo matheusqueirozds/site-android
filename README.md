@@ -4,7 +4,7 @@
   
 > 🤖 Página com informações sobre o Android.
   
-  <img src="https://user-images.githubusercontent.com/70871620/193432750-af1519f1-b2b3-455b-aa7b-382a42fda6f9.gif" height="100px">
+  <img src="https://user-images.githubusercontent.com/70871620/193432750-af1519f1-b2b3-455b-aa7b-382a42fda6f9.gif" height="100px" title="Androids não comem maçãs. Apenas humanos" />
 
 <br>
   
@@ -23,7 +23,7 @@
   
 [Matheus Queiroz](https://github.com/matheusqueirozds) |  
 :-------------------------:|
- <a href="https://github.com/matheusqueirozds"><img src="https://avatars.githubusercontent.com/u/70871620?v=4" width="100px;" alt="Foto do Matheus Queiroz no GitHub"/></a> |
+ <a href="https://github.com/matheusqueirozds"><img src="https://avatars.githubusercontent.com/u/70871620?v=4" width="100px;" alt="Foto do Matheus Queiroz no GitHub" title="Futuro recebedor de Macs" /></a> |
   
 </div>
 </details>
